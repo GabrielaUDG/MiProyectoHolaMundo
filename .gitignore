@@ -1,0 +1,19 @@
+# Ignorar carpetas de Unity específicas 
+Library/ 
+Temp/ 
+Obj/ 
+Build/ 
+Logs/ 
+UserSettings/ 
+
+
+# Ignorar archivos específicos de Unity 
+*.csproj 
+*.unityproj 
+*.sln 
+*.suo 
+*.user 
+*.userprefs 
+*.pidb 
+*.booproj 
+*.svd  
